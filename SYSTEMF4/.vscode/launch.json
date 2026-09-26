@@ -12,7 +12,6 @@
             "servertype": "openocd",
             "cwd": "${workspaceFolder}",
             "executable": "${workspaceFolder}/build/Debug/SYSTEMF4.elf", //TODO:改为真实.elf
-            "preLaunchTask": "cmake-build-debug",
             "configFiles": [
                 "interface/cmsis-dap.cfg",
                 "target/stm32f4x.cfg" //TODO:改为实际的芯片类型

@@ -1,0 +1,6 @@
+D:/f407_homework_lchen496/USART/build/Debug/CMakeFiles/USART.dir
+D:/f407_homework_lchen496/USART/build/Debug/CMakeFiles/edit_cache.dir
+D:/f407_homework_lchen496/USART/build/Debug/CMakeFiles/rebuild_cache.dir
+D:/f407_homework_lchen496/USART/build/Debug/cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir
+D:/f407_homework_lchen496/USART/build/Debug/cmake/stm32cubemx/CMakeFiles/edit_cache.dir
+D:/f407_homework_lchen496/USART/build/Debug/cmake/stm32cubemx/CMakeFiles/rebuild_cache.dir

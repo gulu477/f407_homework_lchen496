@@ -62,7 +62,7 @@ rule C_COMPILER__STM32_Drivers_unscanned_Debug
 # Rule for re-running cmake.
 
 rule RERUN_CMAKE
-  command = D:\bin\cmake.exe --regenerate-during-build -SD:\project\SYSTEMF4 -BD:\project\SYSTEMF4\build\Debug
+  command = D:\bin\cmake.exe --regenerate-during-build -SD:\f407_homework_lchen496\SYSTEMF4 -BD:\f407_homework_lchen496\SYSTEMF4\build\Debug
   description = Re-running CMake...
   generator = 1
 
